@@ -9,10 +9,10 @@
 - 👨‍💻 I'm a Sophomore Software Engineer student who is passionate about scientific research and creating technology to elevate people and change the world to a better and easier place, and my objective is to use the knowledge I have gained.
 - 🎤 Being an innovative, creative, good speaker and masterly orator. 
 - 💻 Some tools I enjoy working with include Javascript, Java, Python, C, C++ and MS SQL.
-
+<div align="center"
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-
+</div>
 <br><br>
 
